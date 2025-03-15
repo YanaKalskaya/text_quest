@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quest/static/css/main.a8f357fb.css",
+    "main.js": "/quest/static/js/main.502b36cb.js",
+    "static/media/arrow.svg": "/quest/static/media/arrow.d52d7b37b4016fdb194b.svg",
+    "static/media/arrow_inactive.svg": "/quest/static/media/arrow_inactive.13e002d23b4b08dfb952.svg",
+    "index.html": "/quest/index.html",
+    "main.a8f357fb.css.map": "/quest/static/css/main.a8f357fb.css.map",
+    "main.502b36cb.js.map": "/quest/static/js/main.502b36cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f357fb.css",
+    "static/js/main.502b36cb.js"
+  ]
+}
